@@ -138,17 +138,39 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
+   Muestra un mensaje por consola.
 2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
+  Se puede, pero el valor solo se ha cambiado en la memoria, en la página web no ha pasado nada.
 3. ¿Para qué sirve la consola del navegador en este contexto?
+   Sirve para depurar y probar código en tiempo real.
 4. Para qué sirve el archivo HTML en este contexto?
+   Sirve como estructura de la página.
 5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
+   Para tener el código más ordenado, sea más fácil de mantener y se pueda reutilizar.
 6. Por qué se llama Vanilla JavaScript?
+   Porque se apodó así al uso de Javascript a pelo por la existencia de sus frameworks.
 7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
+   Js puro se usa en scripts pequeños y REACT por ejemplo en proyectos más grandes como páginas web dinámicas.
 8. Cómo se define una función en JS
-9. Sobre el código demuestra la diferencia entre let y const
+   Con la palabra reservada 'function' seguida del nombre y {}.
+9.  Sobre el código demuestra la diferencia entre let y const
+    Const se usa para crear una variable constante, es decir, no se puede modificar, let se usa para crear una variable normal.
+
+  ```javascript
+let nombre = "Juan Antonio";
+nombre = "Carlos";
+
+const nombreFijo = "Juan Antonio";
+nombreFijo = "Carlos";
+```
+
 10. Indica en el código:
    1. Si puede evitarse el uso de let. Qué hace
+    
+    Sí, puede cambiarse por `const` (`const nombre = "Juan Antonio";`) ya que el valor nunca se reasigna. `let` sirve para declarar variables a las que se les puede cambiar el valor más adelante.
+   
    2. Cuántos eventos hay en el código, cuáles son y para qué sirven
-
+    
+    Hay **0 eventos**. El código se ejecuta directamente línea a línea sin esperar ninguna acción del usuario (como `click` o `load`).
 
 
