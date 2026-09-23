@@ -133,6 +133,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    ```
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
 
+![3](img/3.png)
    
 ## Parte 6: Preguntas de reflexión
 
