@@ -1,3 +1,5 @@
+## Juan Antonio Muñoz Godoy
+
 # JS desde cero en el navegador... antes que REACT.
 
 El objetivo de esta práctica es crear un formulario básico en HTML y JavaScript que permita saludar a un usuario. Publicarlo en un repositorio de GitHub con GitHub Pages. Todo debes documentarlo con un pantallazo en este mismo archivo y personalizarlo con tu tus datos personales.
