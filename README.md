@@ -95,7 +95,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 - Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.
   
 ### [Index.html](00JSyEntorno/index.html)
-### URL de GitHub Pages: https://juanantoniomunozz.github.io/iesgrancapitan-opt-2daw-javascrip-y-su-entorno-de-trabajo-JS-desde-cero-en-el-navegador/
+### [Enlace a Github Pages](https://juanantoniomunozz.github.io/iesgrancapitan-opt-2daw-javascrip-y-su-entorno-de-trabajo-JS-desde-cero-en-el-navegador/)
 
 
 ## parte 5: formulario HTML + JavaScript
