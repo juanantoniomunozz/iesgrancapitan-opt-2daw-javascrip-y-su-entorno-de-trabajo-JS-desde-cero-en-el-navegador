@@ -81,6 +81,8 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 
 ![2](img/2.png)
 
+### [Formulario.html](00JSyEntorno/formulario.html)
+
 ## Parte 4: Experimenta
 
 - Cambia el valor de la variable `nombre` por el tuyo y recarga la página.
